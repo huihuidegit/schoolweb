@@ -1,2 +1,0 @@
-# studentpay
-pay
